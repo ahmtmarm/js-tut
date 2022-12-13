@@ -1,0 +1,33 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+.btn {
+    display: block;
+    text-align: center; 
+}
+
+#decreaseBtn{
+    padding: 32px 16px;
+    background-color: green;
+    border-radius: 12px;
+    font-size: 40px;
+}
+
+#resetBtn {
+    padding: 32px 16px;
+    background-color: black;
+    color: chocolate;
+    border-radius: 12px;
+    font-size: 40px;
+
+}
+
+#increaseBtn {
+    padding: 32px 16px;
+    background-color: red;
+    border-radius: 12px;
+    font-size: 40px;
+}
